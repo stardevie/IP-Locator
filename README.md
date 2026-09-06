@@ -1,4 +1,4 @@
-
+One line Installation:
 
 What is an IP locator?
 
