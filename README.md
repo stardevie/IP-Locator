@@ -11,5 +11,3 @@ Windows 11/10
 Errors?
 
 python -m pip install requests
-python ip-locator.py
-
